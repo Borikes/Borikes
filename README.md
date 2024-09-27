@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a neurologist working in epidemiology, specifically stroke and epilepsy. My current project is a postdoc on the epidemiology of epilepsy in the elderly. I mainly use R for database management and analysis.
 <!--
 **Borikes/Borikes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
